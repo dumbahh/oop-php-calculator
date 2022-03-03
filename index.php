@@ -1,5 +1,4 @@
 <?php
-include_once 'calc.php';
 include_once 'includes/calc.inc.php';
  ?>
 <!DOCTYPE html>
